@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pizzamie/static/css/main.79015426.css",
+    "main.js": "/Pizzamie/static/js/main.ed31cdcc.js",
+    "index.html": "/Pizzamie/index.html",
+    "main.79015426.css.map": "/Pizzamie/static/css/main.79015426.css.map",
+    "main.ed31cdcc.js.map": "/Pizzamie/static/js/main.ed31cdcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79015426.css",
+    "static/js/main.ed31cdcc.js"
+  ]
+}
